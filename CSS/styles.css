@@ -15,28 +15,29 @@
   margin: 0px auto;
   padding: 20px 0px 20px 0px;
 }
+
 .jumbotron {
-  padding: 30px 0px 0px 0px;
+  padding: 70px 30px 70px 30px;
   margin: 0px auto;
   background: #9575cd;
   color: floralwhite;
 }
 
-address {
+.address {
   font-size: 80%;
   margin: 0px;
   color: #0f0f0f;
 }
 
-body {
+.social {
+  width: 351px;
+}
+
+.body {
   padding: 50px 0px 0px 0px;
   z-index: 0;
 }
 
 .navbar-dark {
-  background-color: #6e3edf;
-}
-
-.row.justify-content-center {
-  margin-top: 50px;
+  background-color: #512da8;
 }
